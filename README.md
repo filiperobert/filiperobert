@@ -26,7 +26,3 @@
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoftBerts&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SoftBerts&theme=github_dark) |
 | :-: | :-: |
 </p>  
-
-
-
-![Snake animation](https://github.com/SoftBerts/SoftBerts/blob/output/github-contribution-grid-snake.svg)
