@@ -6,7 +6,7 @@
 ## <p align="left"> 
   Opa, tranquilo? espero que esteja bem! </br>
   Então, eu trabalho como <strong>Desenvolvedor Web</strong> Atualmente trabalho como freelancer 💻 e estou graduando em ciencia da computação na [@UNIT](https://www.instagram.com/unit_br/)</br>
-  Aqui em meu </strong>Git Hub</strong> irá ser enviado alguns projetos que eu faço para ver minha evolução na programação 📚 e quem sabe constribuir no estudo de alguém👥 (ou a skynet)🤖<br>
+  Aqui em meu </strong>Git Hub</strong> irá ser enviado alguns projetos que eu faço para ver minha evolução na programação 📚 e quem sabe constribuir no estudo de alguém👥 (ou da skynet)🤖<br>
 </p>
 
  ## ☕ Linguagens 
