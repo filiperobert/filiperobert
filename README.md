@@ -13,6 +13,7 @@
   👨🏾‍💻 Atualmente estudo e domino as seguintes linguagens:</br>
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![LUA](https://camo.githubusercontent.com/220320d5ecad3626ef2ffbf3f5a4a2d2a4087c24ef590024b5a13f4254ccd3e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c75612d3243324437323f7374796c653d666f722d7468652d6261646765266c6f676f3d6c7561266c6f676f436f6c6f723d7768697465)
  
 
  ## 🧰 Ferramentas 
